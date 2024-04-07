@@ -25,6 +25,3 @@ The EEG signals used in this project are categorized based on the severity of se
 ## Usage
 To replicate this study or apply the methodology to new data, follow the instructions and code provided in the notebook. Adjustments to the pre-processing and feature extraction steps may be necessary depending on the characteristics of the new dataset.
 
-## Contribution
-Contributions are welcome, especially in the areas of model optimization, feature engineering, and expanding the classification to other classes of epilepsy severity.
-
