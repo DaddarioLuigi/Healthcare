@@ -28,5 +28,3 @@ To replicate this study or apply the methodology to new data, follow the instruc
 ## Contribution
 Contributions are welcome, especially in the areas of model optimization, feature engineering, and expanding the classification to other classes of epilepsy severity.
 
-## License
-[MIT License](https://opensource.org/licenses/MIT)
